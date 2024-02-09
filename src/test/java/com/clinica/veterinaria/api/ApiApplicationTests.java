@@ -1,4 +1,4 @@
-package com.clinicaveterinaria.api;
+package com.clinica.veterinaria.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
